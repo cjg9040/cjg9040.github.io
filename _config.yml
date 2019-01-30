@@ -24,6 +24,8 @@ social:
 
 permalink: pretty
 
+disqus-shortname: cjg9040
+
 gems:
   - "jekyll-feed"
   - "jekyll-seo-tag"
